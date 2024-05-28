@@ -1,0 +1,1 @@
+/home/dan/Desktop/dev/js/projector/projector/rs/target/debug/librust.rlib: /home/dan/Desktop/dev/js/projector/projector/rs/src/config.rs /home/dan/Desktop/dev/js/projector/projector/rs/src/lib.rs /home/dan/Desktop/dev/js/projector/projector/rs/src/opts.rs /home/dan/Desktop/dev/js/projector/projector/rs/src/projector.rs

@@ -1,0 +1,15 @@
+/home/dan/Desktop/dev/rs/projector/rs/target/debug/deps/libanyhow-f89ef18962436e25.rmeta: /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/lib.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/backtrace.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/chain.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/context.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/ensure.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/error.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/fmt.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/kind.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/macros.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/ptr.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/wrapper.rs
+
+/home/dan/Desktop/dev/rs/projector/rs/target/debug/deps/anyhow-f89ef18962436e25.d: /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/lib.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/backtrace.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/chain.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/context.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/ensure.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/error.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/fmt.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/kind.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/macros.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/ptr.rs /home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/wrapper.rs
+
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/lib.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/backtrace.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/chain.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/context.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/ensure.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/error.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/fmt.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/kind.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/macros.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/ptr.rs:
+/home/dan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anyhow-1.0.81/src/wrapper.rs:
